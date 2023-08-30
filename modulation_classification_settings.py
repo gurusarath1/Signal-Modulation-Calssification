@@ -1,0 +1,3 @@
+EPOCHS = 1
+NUM_ITERS = 100000
+DEVICE = 'cuda'
